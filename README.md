@@ -171,6 +171,10 @@ http://127.0.0.1:8000
 
 ### 7️⃣ Start ngrok
 
+Download ngrok from https://ngrok.com/download
+Place ngrok.exe anywhere or add it to PATH
+
+
 ```bash
 .\ngrok.exe http 8000
 ```
